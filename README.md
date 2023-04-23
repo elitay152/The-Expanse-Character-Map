@@ -1,3 +1,3 @@
 # The-Expanse-Character-Map
 
-See the final interactive character map at https://elitay152.github.io
+Utilizing natural language processing to map relationships in my favorite book series, The Expanse.
